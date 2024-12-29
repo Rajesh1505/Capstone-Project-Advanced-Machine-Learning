@@ -60,7 +60,9 @@ The dataset provides comprehensive historical sales data, designed to facilitate
 - **Numerical Data:** Includes sales, markdowns, economic indicators, and regional statistics.
 
 This dataset offers a rich blend of sales, promotional, and economic data that is well-suited for advanced analysis, such as demand forecasting, customer segmentation, and market basket analysis.
----------
+
+
+---
 
 
 **Final Conclusion:**
